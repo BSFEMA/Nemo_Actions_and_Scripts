@@ -1,0 +1,8 @@
+[Nemo Action]
+
+Name=Open file as root
+Icon-Name=dialog-password
+Exec=/bin/sh -c 'pkexec env DISPLAY=$DISPLAY XAUTHORITY=$XAUTHORITY gvfs-open %U'
+Selection=s;
+Extensions=nodirs;
+Dependencies=nemo;
