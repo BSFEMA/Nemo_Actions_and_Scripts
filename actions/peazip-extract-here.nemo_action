@@ -1,8 +1,0 @@
-[Nemo Action]
-
-Name=Peazip Extract Here
-Icon-Name=peazip
-Exec=peazip -ext2here %F
-Selection=any
-Extensions=zip;7z;rar;zipx;pea;tar;gz;iso;
-Dependencies=peazip;

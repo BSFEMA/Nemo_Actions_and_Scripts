@@ -1,0 +1,8 @@
+[Nemo Action]
+
+Name=Enqueue to Audacious
+Exec=audacious -e %U
+Icon-Name=audacious
+Selection=Any
+Extensions=mp3;flac;wav;wma;ogg;m3u;pls;
+Dependencies=audacious;

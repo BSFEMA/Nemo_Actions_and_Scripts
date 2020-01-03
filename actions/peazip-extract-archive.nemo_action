@@ -1,8 +1,0 @@
-[Nemo Action]
-
-Name=Peazip Archive
-Icon-Name=peazip
-Exec=peazip -ext2main %F
-Selection=any
-Extensions=zip;7z;rar;zipx;pea;tar;gz;iso;
-Dependencies=peazip;

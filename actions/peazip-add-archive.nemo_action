@@ -1,8 +1,0 @@
-[Nemo Action]
-
-Name=Peazip Add To Archive
-Icon-Name=peazip
-Exec=peazip -add2multi %F
-Selection=any
-Extensions=any;
-Dependencies=peazip;

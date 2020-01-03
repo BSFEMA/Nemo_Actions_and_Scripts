@@ -1,6 +1,6 @@
 [Nemo Action]
 
-Name=Refresh
+Name=Nemo Refresh
 Comment=Nemo Refresh
 Exec=xdotool key ctrl+r
 Selection=None
