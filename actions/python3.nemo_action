@@ -5,4 +5,4 @@ Quote=double
 Exec=env /usr/bin/python3 %F
 Selection=S
 Extensions=py;
-Icon-Name=python
+Icon-Name=python3
